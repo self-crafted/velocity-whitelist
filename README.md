@@ -37,9 +37,7 @@ To use this plugin you need to run Java 17.
 The file `whitelist.txt` is read every 10 seconds. So simply drop the UUIDs of friends and family in there.
 You can write comments starting the line with `#` or `//`.
 Player names can't be used. The plugin will accept UUIDs only.
-```
-whitelist.txt
-```
+
 ```
 # valid comment
 <valid UUID>
