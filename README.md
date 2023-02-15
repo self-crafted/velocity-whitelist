@@ -47,7 +47,7 @@ Player names can't be used. The plugin will accept UUIDs only.
 
 ## Maintainers
 
-[@off-by-0point5](https://github.com/off-by-0point5)
+[@offby0point5](https://github.com/offby0point5)
 
 ## Contributing
 
